@@ -1,0 +1,56 @@
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.exe.config
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.exe
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.pdb
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.Properties.Resources.resources
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.GenerateResource.cache
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.CoreCompileInputs.cache
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.exe
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.pdb
+F:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.exe.config
+F:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.exe
+F:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.pdb
+F:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.AssemblyReference.cache
+F:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.Form1.resources
+F:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.Properties.Resources.resources
+F:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.GenerateResource.cache
+F:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.CoreCompileInputs.cache
+F:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.exe
+F:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.pdb
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.NastaveniForm.resources
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.BouncingBallForm.resources
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.AssemblyReference.cache
+E:\SSPŠ\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.SuggestedBindingRedirects.cache
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.exe.config
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.exe
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.pdb
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.AssemblyReference.cache
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.SuggestedBindingRedirects.cache
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.BouncingBallForm.resources
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.NastaveniForm.resources
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.Properties.Resources.resources
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.GenerateResource.cache
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.CoreCompileInputs.cache
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.exe
+E:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.pdb
+D:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.exe.config
+D:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.exe
+D:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.pdb
+D:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.AssemblyReference.cache
+D:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.BouncingBallForm.resources
+D:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.NastaveniForm.resources
+D:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.Properties.Resources.resources
+D:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.GenerateResource.cache
+D:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.CoreCompileInputs.cache
+D:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.exe
+D:\SSPŠ\1. C\PVA\Forms\Bouncing Ball 2.0\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.pdb
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_1\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.exe.config
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_1\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.exe
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_1\Bouncing Ball 2.0\bin\Debug\Bouncing Ball 2.0.pdb
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_1\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.AssemblyReference.cache
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_1\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.BouncingBallForm.resources
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_1\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.NastaveniForm.resources
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_1\Bouncing Ball 2.0\obj\Debug\Bouncing_Ball_2._0.Properties.Resources.resources
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_1\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.GenerateResource.cache
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_1\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.csproj.CoreCompileInputs.cache
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_1\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.exe
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_1\Bouncing Ball 2.0\obj\Debug\Bouncing Ball 2.0.pdb
