@@ -1,0 +1,102 @@
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.exe.config
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.exe
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.pdb
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.VybraniHryForm.resources
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.Properties.Resources.resources
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.GenerateResource.cache
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.CoreCompileInputs.cache
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.exe
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.pdb
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.exe.config
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.exe
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.pdb
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csprojAssemblyReference.cache
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.VybraniHryForm.resources
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.Properties.Resources.resources
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.GenerateResource.cache
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.CoreCompileInputs.cache
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.exe
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.pdb
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.PostrehForm.resources
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.RychlostForm.resources
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.exe.config
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.exe
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.pdb
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.VybraniHryForm.resources
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.Properties.Resources.resources
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.PostrehForm.resources
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.RychlostForm.resources
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.GenerateResource.cache
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.CoreCompileInputs.cache
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.exe
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.pdb
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.SekvenceCiselForm.resources
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csprojAssemblyReference.cache
+F:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.SekvenceCiselForm.resources
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.SekvenceCiselForm.resources
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.PostrehForm.resources
+D:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.RychlostForm.resources
+E:\SSPŠ\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csprojAssemblyReference.cache
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.exe.config
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.exe
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.pdb
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.AssemblyReference.cache
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.SuggestedBindingRedirects.cache
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.VybraniHryForm.resources
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.Properties.Resources.resources
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.SekvenceCiselForm.resources
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.PostrehForm.resources
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.RychlostForm.resources
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.GenerateResource.cache
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.CoreCompileInputs.cache
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.exe
+E:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.pdb
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.exe.config
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.exe
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\bin\Debug\MiniHry.pdb
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.AssemblyReference.cache
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.VybraniHryForm.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.Properties.Resources.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.SekvenceCiselForm.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.PostrehForm.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.RychlostForm.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.GenerateResource.cache
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.csproj.CoreCompileInputs.cache
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.exe
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Debug\MiniHry.pdb
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\bin\Debug\MiniHry.exe.config
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\bin\Debug\MiniHry.exe
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\bin\Debug\MiniHry.pdb
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\obj\Debug\MiniHry.csproj.AssemblyReference.cache
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\obj\Debug\MiniHry.VybraniHryForm.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\obj\Debug\MiniHry.Properties.Resources.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\obj\Debug\MiniHry.PostrehForm.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\obj\Debug\MiniHry.RychlostForm.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\obj\Debug\MiniHry.csproj.GenerateResource.cache
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\obj\Debug\MiniHry.csproj.CoreCompileInputs.cache
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\obj\Debug\MiniHry.exe
+D:\SSPŠ\1. C\PVA\Forms\MiniHry - Copy\MiniHry\obj\Debug\MiniHry.pdb
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\bin\Debug\MiniHry.exe.config
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\bin\Debug\MiniHry.exe
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\bin\Debug\MiniHry.pdb
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\obj\Debug\MiniHry.csproj.AssemblyReference.cache
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\obj\Debug\MiniHry.VybraniHryForm.resources
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\obj\Debug\MiniHry.Properties.Resources.resources
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\obj\Debug\MiniHry.PostrehForm.resources
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\obj\Debug\MiniHry.RychlostForm.resources
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\obj\Debug\MiniHry.csproj.GenerateResource.cache
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\obj\Debug\MiniHry.csproj.CoreCompileInputs.cache
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\obj\Debug\MiniHry.exe
+C:\__\_Maturita\ITP\pop_portfolio_ITP\pojekt_2\MiniHry\obj\Debug\MiniHry.pdb
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\obj\Debug\MiniHry.csproj.AssemblyReference.cache
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\obj\Debug\MiniHry.VybraniHryForm.resources
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\obj\Debug\MiniHry.PostrehForm.resources
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\obj\Debug\MiniHry.RychlostForm.resources
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\obj\Debug\MiniHry.csproj.GenerateResource.cache
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\obj\Debug\MiniHry.exe
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\obj\Debug\MiniHry.pdb
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\bin\Debug\MiniHry.exe.config
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\bin\Debug\MiniHry.exe
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\bin\Debug\MiniHry.pdb
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\obj\Debug\MiniHry.Properties.Resources.resources
+C:\__\_Maturita\ITP\pop_portfolio_ITP\projekt_2\MiniHry\obj\Debug\MiniHry.csproj.CoreCompileInputs.cache

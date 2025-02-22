@@ -1,0 +1,13 @@
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\bin\Release\MiniHry.exe.config
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\bin\Release\MiniHry.exe
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\bin\Release\MiniHry.pdb
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Release\MiniHry.csproj.AssemblyReference.cache
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Release\MiniHry.VybraniHryForm.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Release\MiniHry.Properties.Resources.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Release\MiniHry.SekvenceCiselForm.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Release\MiniHry.PostrehForm.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Release\MiniHry.RychlostForm.resources
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Release\MiniHry.csproj.GenerateResource.cache
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Release\MiniHry.csproj.CoreCompileInputs.cache
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Release\MiniHry.exe
+D:\SSPŠ\1. C\PVA\Forms\MiniHry\MiniHry\obj\Release\MiniHry.pdb
